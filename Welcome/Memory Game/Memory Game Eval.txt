@@ -1,0 +1,6 @@
+Memory Game Eval:
+
+Game was fine, some cards were harder to see than others, game worked as intended, no issues or bugs regarding the game. 
+I think there can be more visuals but Alex spoke about a lot of issues regarding sprite imports. 
+Told me about how cards were just disappearing when clicked for a while and some imports just had to be deleted and re-imported.
+Love me a good memory game though, fun to play, turns were counted along with matches. 10/10 would add micro transactions.
